@@ -1,1 +1,1 @@
-!(https://github.com/mbryniak/podyplomowe/edit/master/src/speed.png)
+![](https://broadbandnow.com/app/uploads/2020/08/What-is-a-good-internet-speed-768x576.jpeg)
