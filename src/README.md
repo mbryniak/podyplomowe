@@ -1,1 +1,1 @@
-src/speed.png
+![alt text](https://github.com/mbryniak/podyplomowe/edit/master/src/speed.png)
